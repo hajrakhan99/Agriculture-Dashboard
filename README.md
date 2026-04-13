@@ -7,12 +7,6 @@ Power BI dashboard analyzing agricultural sales (₹ Lakh), production (Tonnes),
  
 ---
  
-## 📌 Short Description (for GitHub repo)
- 
-> Power BI dashboard analyzing agricultural sales (₹ Lakh), production (Tonnes), and profit across Indian states, seasons, and crop categories — built with interactive slicers and multi-chart visuals.
- 
----
- 
 ## 📊 Dashboard Overview
  
 This `.pbix` file contains a single-page Power BI report titled **"Agriculture Sales and Production Dashboard"**. It is designed to help stakeholders quickly understand performance across key agricultural dimensions.
